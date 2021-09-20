@@ -1,7 +1,7 @@
 # My version
 A proposal of ergonomic key layout for standard size keyboard but i made some changes
 
-Here's how it looks like: ![without extra key]
+Here's how it looks like:
 ![without extra key](https://user-images.githubusercontent.com/60468598/134020088-451f7de0-4239-42af-8bb0-f55c21662f0c.png)
 
 I made altgr under right thumb because it's an important key on many layouts.
